@@ -1,0 +1,56 @@
+C:\Users\patri\source\repos\Burger Backend\Burger Backend\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\patri\source\repos\Burger Backend\Burger Backend\bin\Debug\net6.0\appsettings.json
+C:\Users\patri\source\repos\Burger Backend\Burger Backend\bin\Debug\net6.0\Burger Backend.exe
+C:\Users\patri\source\repos\Burger Backend\Burger Backend\bin\Debug\net6.0\Burger Backend.deps.json
+C:\Users\patri\source\repos\Burger Backend\Burger Backend\bin\Debug\net6.0\Burger Backend.runtimeconfig.json
+C:\Users\patri\source\repos\Burger Backend\Burger Backend\bin\Debug\net6.0\Burger Backend.dll
+C:\Users\patri\source\repos\Burger Backend\Burger Backend\bin\Debug\net6.0\ref\Burger Backend.dll
+C:\Users\patri\source\repos\Burger Backend\Burger Backend\bin\Debug\net6.0\Burger Backend.pdb
+C:\Users\patri\source\repos\Burger Backend\Burger Backend\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\patri\source\repos\Burger Backend\Burger Backend\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\patri\source\repos\Burger Backend\Burger Backend\bin\Debug\net6.0\Azure.Security.KeyVault.Certificates.dll
+C:\Users\patri\source\repos\Burger Backend\Burger Backend\bin\Debug\net6.0\Azure.Security.KeyVault.Secrets.dll
+C:\Users\patri\source\repos\Burger Backend\Burger Backend\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\patri\source\repos\Burger Backend\Burger Backend\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+C:\Users\patri\source\repos\Burger Backend\Burger Backend\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\patri\source\repos\Burger Backend\Burger Backend\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\patri\source\repos\Burger Backend\Burger Backend\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\patri\source\repos\Burger Backend\Burger Backend\bin\Debug\net6.0\Microsoft.Identity.Web.dll
+C:\Users\patri\source\repos\Burger Backend\Burger Backend\bin\Debug\net6.0\Microsoft.Identity.Web.Certificate.dll
+C:\Users\patri\source\repos\Burger Backend\Burger Backend\bin\Debug\net6.0\Microsoft.Identity.Web.TokenCache.dll
+C:\Users\patri\source\repos\Burger Backend\Burger Backend\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\patri\source\repos\Burger Backend\Burger Backend\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\patri\source\repos\Burger Backend\Burger Backend\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\patri\source\repos\Burger Backend\Burger Backend\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\patri\source\repos\Burger Backend\Burger Backend\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\patri\source\repos\Burger Backend\Burger Backend\bin\Debug\net6.0\Microsoft.IdentityModel.Validators.dll
+C:\Users\patri\source\repos\Burger Backend\Burger Backend\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\patri\source\repos\Burger Backend\Burger Backend\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\patri\source\repos\Burger Backend\Burger Backend\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\patri\source\repos\Burger Backend\Burger Backend\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\patri\source\repos\Burger Backend\Burger Backend\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\patri\source\repos\Burger Backend\Burger Backend\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\patri\source\repos\Burger Backend\Burger Backend\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\patri\source\repos\Burger Backend\Burger Backend\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\patri\source\repos\Burger Backend\Burger Backend\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\patri\source\repos\Burger Backend\Burger Backend\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\patri\source\repos\Burger Backend\Burger Backend\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\patri\source\repos\Burger Backend\Burger Backend\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\patri\source\repos\Burger Backend\Burger Backend\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\patri\source\repos\Burger Backend\Burger Backend\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\patri\source\repos\Burger Backend\Burger Backend\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\patri\source\repos\Burger Backend\Burger Backend\obj\Debug\net6.0\Burger Backend.csproj.AssemblyReference.cache
+C:\Users\patri\source\repos\Burger Backend\Burger Backend\obj\Debug\net6.0\Burger Backend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\patri\source\repos\Burger Backend\Burger Backend\obj\Debug\net6.0\Burger Backend.AssemblyInfoInputs.cache
+C:\Users\patri\source\repos\Burger Backend\Burger Backend\obj\Debug\net6.0\Burger Backend.AssemblyInfo.cs
+C:\Users\patri\source\repos\Burger Backend\Burger Backend\obj\Debug\net6.0\Burger Backend.csproj.CoreCompileInputs.cache
+C:\Users\patri\source\repos\Burger Backend\Burger Backend\obj\Debug\net6.0\Burger Backend.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\patri\source\repos\Burger Backend\Burger Backend\obj\Debug\net6.0\Burger Backend.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\patri\source\repos\Burger Backend\Burger Backend\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\patri\source\repos\Burger Backend\Burger Backend\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\patri\source\repos\Burger Backend\Burger Backend\obj\Debug\net6.0\scopedcss\bundle\Burger Backend.styles.css
+C:\Users\patri\source\repos\Burger Backend\Burger Backend\obj\Debug\net6.0\Burger Backend.csproj.CopyComplete
+C:\Users\patri\source\repos\Burger Backend\Burger Backend\obj\Debug\net6.0\Burger Backend.dll
+C:\Users\patri\source\repos\Burger Backend\Burger Backend\obj\Debug\net6.0\ref\Burger Backend.dll
+C:\Users\patri\source\repos\Burger Backend\Burger Backend\obj\Debug\net6.0\Burger Backend.pdb
+C:\Users\patri\source\repos\Burger Backend\Burger Backend\obj\Debug\net6.0\Burger Backend.genruntimeconfig.cache

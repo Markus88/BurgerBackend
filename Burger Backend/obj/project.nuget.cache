@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bIzIhivdw0/DL8w3AfgwzwDePB7npmlpdC+I4Xk3B11P9BckWdDHaWnbqszMd9KyvgXXFEX1YUyNpZq2AD4pqw==",
+  "dgSpecHash": "m4XMkXg0DQhp50D0dqjpx7ouOToDeLmV9O1P+NfK3X/3y3V72gFbx01VrqKvee2BKviT2xsugKf+0e1+ZGfl+A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\patri\\source\\repos\\Burger Backend\\Burger Backend\\Burger Backend.csproj",
+  "projectFilePath": "C:\\Users\\patri\\source\\repos\\Burger Backend\\Burger Backend\\ApiServer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\patri\\.nuget\\packages\\azure.core\\1.6.0\\azure.core.1.6.0.nupkg.sha512",
     "C:\\Users\\patri\\.nuget\\packages\\azure.identity\\1.3.0\\azure.identity.1.3.0.nupkg.sha512",

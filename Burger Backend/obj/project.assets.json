@@ -2367,9 +2367,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\patri\\source\\repos\\Burger Backend\\Burger Backend\\Burger Backend.csproj",
-      "projectName": "Burger Backend",
-      "projectPath": "C:\\Users\\patri\\source\\repos\\Burger Backend\\Burger Backend\\Burger Backend.csproj",
+      "projectUniqueName": "C:\\Users\\patri\\source\\repos\\Burger Backend\\Burger Backend\\ApiServer.csproj",
+      "projectName": "ApiServer",
+      "projectPath": "C:\\Users\\patri\\source\\repos\\Burger Backend\\Burger Backend\\ApiServer.csproj",
       "packagesPath": "C:\\Users\\patri\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\patri\\source\\repos\\Burger Backend\\Burger Backend\\obj\\",
       "projectStyle": "PackageReference",

@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace MapperProfile.Persistence
 {
-    internal class BurgerRestaurantPersistenceMapperProfile
+    public class RestaurantPersistenceMapperProfile
     {
     }
 }

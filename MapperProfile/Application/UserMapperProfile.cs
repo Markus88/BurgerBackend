@@ -1,6 +1,6 @@
 ﻿namespace MapperProfile.Application
 {
-    public class RestaurantMapperProfile
+    public class UserMapperProfile
     {
     }
 }

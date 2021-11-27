@@ -1,8 +1,8 @@
 {
   "Version": 1,
-  "Hash": "UxDXewxtHezTSoiqoQ2YECtCLMtPXVL+ionrPKm/iig=",
-  "Source": "Burger Backend",
-  "BasePath": "_content/Burger Backend",
+  "Hash": "cmeJC/3nGUH/rVjmmRPAuCWYWBKDz4E/+iljWtCRtfg=",
+  "Source": "ApiServer",
+  "BasePath": "_content/ApiServer",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],

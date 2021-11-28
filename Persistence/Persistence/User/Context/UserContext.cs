@@ -1,4 +1,4 @@
-﻿using Persistence.ConnectionStringFactory;
+﻿using CrossTools.ConnectionStringFactory;
 using System.Data.Entity;
 using System.Data.SqlClient;
 

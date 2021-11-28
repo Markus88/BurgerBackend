@@ -15,6 +15,5 @@ namespace Persistence.User.Model
 
         [Column(name: "Email")]
         public string Email { get; set; }
-
     }
 }

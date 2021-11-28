@@ -1,5 +1,5 @@
-﻿using Persistence.BurgerRestaurant.Model;
-using Persistence.ConnectionStringFactory;
+﻿using CrossTools.ConnectionStringFactory;
+using Persistence.BurgerRestaurant.Model;
 using System.Data.Entity;
 using System.Data.SqlClient;
 

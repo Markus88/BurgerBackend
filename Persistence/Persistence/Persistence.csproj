@@ -7,25 +7,13 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Review\Context\" />
-    <Folder Include="Review\Model\" />
-    <Folder Include="Review\Service\" />
-    <Folder Include="City\Context\" />
-    <Folder Include="City\Model\" />
-    <Folder Include="City\Service\" />
-    <Folder Include="BusinessTime\Context\" />
-    <Folder Include="BusinessTime\Model\" />
-    <Folder Include="BusinessTime\Service\" />
-    <Folder Include="StoredFileInformation\Context\" />
-    <Folder Include="StoredFileInformation\Service\" />
-  </ItemGroup>
-
-  <ItemGroup>
     <PackageReference Include="AutoMapper" Version="10.1.1" />
     <PackageReference Include="EntityFramework" Version="6.4.4" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="6.0.0" />
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\..\CrossTools\CrossTools.csproj" />
     <ProjectReference Include="..\..\Domain\User.Domain.Interface\User.Domain.Interface.csproj" />
   </ItemGroup>
 

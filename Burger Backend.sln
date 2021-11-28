@@ -44,6 +44,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		.editorconfig = .editorconfig
 	EndProjectSection
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MapperProfile.Test", "MapperProfile\MapperProfile.Test\MapperProfile.Test.csproj", "{42FE8EBE-BA53-497A-A763-AEB0AB5BBEC7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -94,6 +96,10 @@ Global
 		{E1E4CAB2-328D-45BE-9080-34C2EE3FE00A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E1E4CAB2-328D-45BE-9080-34C2EE3FE00A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E1E4CAB2-328D-45BE-9080-34C2EE3FE00A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{42FE8EBE-BA53-497A-A763-AEB0AB5BBEC7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42FE8EBE-BA53-497A-A763-AEB0AB5BBEC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42FE8EBE-BA53-497A-A763-AEB0AB5BBEC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42FE8EBE-BA53-497A-A763-AEB0AB5BBEC7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -111,6 +117,7 @@ Global
 		{E035D806-B28F-40F2-B7EC-57CC6B3DE125} = {2AD3EE9A-9303-4B44-A59B-B18D555C61C2}
 		{9A23C8E8-253F-461C-B310-930909A84E22} = {8A41CBB3-642D-404A-86A5-498267A42FF1}
 		{E1E4CAB2-328D-45BE-9080-34C2EE3FE00A} = {8D52DDF4-DAFC-437A-B979-7ED8EDAD0768}
+		{42FE8EBE-BA53-497A-A763-AEB0AB5BBEC7} = {8D52DDF4-DAFC-437A-B979-7ED8EDAD0768}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {E73151AE-5773-41D0-B87D-F4BE392FFC1D}

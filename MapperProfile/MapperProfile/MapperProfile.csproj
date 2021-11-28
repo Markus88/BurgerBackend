@@ -7,14 +7,11 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="ApplicationProfile\" />
-  </ItemGroup>
-
-  <ItemGroup>
     <PackageReference Include="AutoMapper" Version="10.1.1" />
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\..\Application\Application.Interface\Application.Interface.csproj" />
     <ProjectReference Include="..\..\Persistence\Persistence\Persistence.csproj" />
   </ItemGroup>
 

@@ -7,7 +7,7 @@ namespace MapperProfile.PersistenceProfile.User
     {
         public UserPersistenceMapperProfile()
         {
-            CreateMap< Persistence.User.Model.User, IUserModel>().ReverseMap();
+            CreateMap<Persistence.User.Model.User, IUserModel>().ReverseMap();
         }
     }
 }

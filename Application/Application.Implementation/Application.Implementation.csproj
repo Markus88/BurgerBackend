@@ -7,6 +7,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\..\Domain\Review.Domain.Interface\Review.Domain.Interface.csproj" />
     <ProjectReference Include="..\..\Domain\User.Domain.Interface\User.Domain.Interface.csproj" />
     <ProjectReference Include="..\Application.Interface\Application.Interface.csproj" />
   </ItemGroup>

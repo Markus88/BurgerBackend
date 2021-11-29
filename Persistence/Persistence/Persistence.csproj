@@ -13,7 +13,8 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\CrossTools\CrossTools.csproj" />
+    <ProjectReference Include="..\..\Crosscutting\Crosscutting.csproj" />
+    <ProjectReference Include="..\..\Domain\Review.Domain.Interface\Review.Domain.Interface.csproj" />
     <ProjectReference Include="..\..\Domain\User.Domain.Interface\User.Domain.Interface.csproj" />
   </ItemGroup>
 

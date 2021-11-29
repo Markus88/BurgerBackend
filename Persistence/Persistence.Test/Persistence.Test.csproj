@@ -15,7 +15,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\CrossTools\CrossTools.csproj" />
     <ProjectReference Include="..\..\Domain\User.Domain.Implementation\User.Domain.Implementation.csproj" />
     <ProjectReference Include="..\..\MapperProfile\MapperProfile\MapperProfile.csproj" />
     <ProjectReference Include="..\Persistence\Persistence.csproj" />

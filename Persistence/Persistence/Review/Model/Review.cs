@@ -12,10 +12,10 @@ namespace Persistence.Review.Model
         [Column(name: "Description")]
         public string Description { get; set; }
         [Column(name: "Taste")]
-        public Int16 Taste { get; set; }
+        public short Taste { get; set; }
         [Column(name: "Texture")]
-        public Int16 Texture { get; set; }
+        public short Texture { get; set; }
         [Column(name: "VisualPresentation")]
-        public Int16 VisualPresentation { get; set; }
+        public short VisualPresentation { get; set; }
     }
 }

@@ -2,6 +2,7 @@
 using MapperProfile.PersistenceProfile.User;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using User.Domain.Interface.Model;
+using persistenceLayer = Persistence.User.Model;
 
 namespace MapperProfile.Test.Persistence.User
 {
@@ -21,7 +22,7 @@ namespace MapperProfile.Test.Persistence.User
         public void Map_UserToUserModel_MapsAllProperties()
         {
             // Arrange
-            var createUser = new Persistence.User.Model.User
+            var createUser = new persistenceLayer.User
             {
                 ID = 0,
                 UserName = "JohnDoe2000",
@@ -31,7 +32,7 @@ namespace MapperProfile.Test.Persistence.User
             var target = _configuration.CreateMapper();
 
             // Act
-            var actual = target.Map<Persistence.User.Model.User, IUserModel>(createUser);
+            var actual = target.Map<persistenceLayer.User, IUserModel>(createUser);
 
             // Assert
             Assert.AreEqual(createUser.ID, actual.ID);
